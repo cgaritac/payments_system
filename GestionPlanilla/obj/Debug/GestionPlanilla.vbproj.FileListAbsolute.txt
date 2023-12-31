@@ -1,0 +1,42 @@
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.exe.config
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.exe
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.pdb
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.xml
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbprojAssemblyReference.cache
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmAcerca.resources
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmPlanilla.resources
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmMenuPrincipal.resources
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.Resources.resources
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.GenerateResource.cache
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.exe
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.xml
+C:\Users\Toshiba\Desktop\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.pdb
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.exe.config
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.exe
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.pdb
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\bin\Debug\GestionPlanilla.xml
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbprojAssemblyReference.cache
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmAcerca.resources
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmPlanilla.resources
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.FrmMenuPrincipal.resources
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.Resources.resources
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.GenerateResource.cache
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.CoreCompileInputs.cache
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.exe
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.xml
+C:\Users\Toshiba\OneDrive\Documentos\Estudios\Carreras\UNED\Técnico en Computación e Informática\Programación orientada objetos II\Módulo 5\GestionPlanilla\GestionPlanilla\obj\Debug\GestionPlanilla.pdb
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\bin\Debug\GestionPlanilla.exe.config
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\bin\Debug\GestionPlanilla.exe
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\bin\Debug\GestionPlanilla.pdb
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\bin\Debug\GestionPlanilla.xml
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.AssemblyReference.cache
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.FrmAcerca.resources
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.FrmPlanilla.resources
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.FrmMenuPrincipal.resources
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.Resources.resources
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.GenerateResource.cache
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.vbproj.CoreCompileInputs.cache
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.exe
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.xml
+C:\Users\cgari\OneDrive\Proyectos\payments_system\GestionPlanilla\obj\Debug\GestionPlanilla.pdb
